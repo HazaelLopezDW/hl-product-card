@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/HazaelLopezDW/hl-product-card/tree/main",
+    "type": "git"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +64,11 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "hazael",
+    "lopez"
+  ]
 }
