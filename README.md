@@ -11,7 +11,6 @@ Este es un paquete de pruebas de despliegue en NPM
 
 ```
     <ProductCard 
-        key={product.id}
         product={product}
         initialValues={{ 
             count: 4,
